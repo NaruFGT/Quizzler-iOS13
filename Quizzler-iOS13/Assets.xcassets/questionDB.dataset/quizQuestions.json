@@ -1,0 +1,52 @@
+[
+  {
+    "question": "The atomic number for lithium is 17.",
+    "answer": true,
+    "flavorText": null
+  },
+  {
+    "question": "A cross between a horse and a zebra is called a 'Hobra.'",
+    "answer": false,
+    "flavorText": "A male zebra and a female horse is called a 'zorse', and a female zebra and a male horse is called a 'zonkey.'"
+  },
+  {
+    "question": "The black box in a plane is black.",
+    "answer": false,
+    "flavorText": "They're actually orange."
+  },
+  {
+    "question": "Alliumphobia is a fear of garlic.",
+    "answer": true,
+    "flavorText": null
+  },
+  {
+    "question": "Sex Education star Gillian Anderson was born in Chicago, Illinois.",
+    "answer": true,
+    "flavorText": null
+  },
+  {
+    "question": "Prince Harry is taller than Prince William.",
+    "answer": false,
+    "flavorText": "Prince William is 1.91m, Prince Harry is 1.86m."
+  },
+  {
+    "question": "The star sign Aquarius is represented by a tiger.",
+    "answer": true,
+    "flavorText": null
+  },
+  {
+    "question": "Meryl Streep has won two Academy Awards.",
+    "answer": false,
+    "flavorText": "She's won three! She won Best Actress for The Iron Lady in 2012, Best Actress for Sophie's Choice in 1983, Best Supporting Actress for Kramer vs. Kramer in 1980."
+  },
+  {
+    "question": "Marrakesh is the capital of Morocco.",
+    "answer": false,
+    "flavorText": "It's Rabat."
+  },
+  {
+    "question": "Idina Menzel sings 'let it go' twenty times in 'Let It Go' from Frozen.",
+    "answer": false,
+    "flavorText": "She sings it 21 times!"
+  }
+]
